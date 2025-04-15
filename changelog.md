@@ -6,7 +6,7 @@ This document tracks changes and updates to the ARC-AGI-2 dataset tasks.
 
 ### 2025-04-14
 
-* Public Eval Tasks updated with minor adjustments (off-by-one pixel errors and slight ambiguities) to both train and test pairs. No major task refactors. Updated tasks:
+* Public Eval Tasks were updated with minor adjustments (off-by-one-pixel errors and slight ambiguities) to train and test pairs. No major task refactors. Updated tasks:
     * `247ef758` - [Single test pair update](https://github.com/arcprize/ARC-AGI-2/commit/8b454b595552981fc9aa8e9540f3e68c92b0f03a)
     * `f560132c` - [Single test pair update](https://github.com/arcprize/ARC-AGI-2/commit/30c145f7c524c932d95d4a512abdd5318ef21bf9)
     * `f931b4a8` - [Train pair update](https://github.com/arcprize/ARC-AGI-2/commit/86a8149f53ce915c069cf586f061eb0af0204713)
@@ -30,7 +30,7 @@ This document tracks changes and updates to the ARC-AGI-2 dataset tasks.
 ### 2025-03-24
 
 * 1,360 ARC-AGI-2 released
-    * Public Train: 120 tasks
+    * Public Train: 1000 tasks
     * Public Eval: 120 tasks
     * Semi-Private Eval: 120 tasks
     * Private Eval: 120 tasks
