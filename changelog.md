@@ -4,6 +4,10 @@ This document tracks changes and updates to the ARC-AGI-2 dataset tasks.
 
 ## Updates
 
+### 2025-04-17
+
+* Public eval task `d8e07eb2` - [Single train pair update](https://github.com/arcprize/ARC-AGI-2/commit/14fba87526c727b80b3a9b85d5933fd7825b991f)
+
 ### 2025-04-14
 
 * Public Eval Tasks were updated with minor adjustments (off-by-one-pixel errors and slight ambiguities) to train and test pairs. No major task refactors. Updated tasks:
